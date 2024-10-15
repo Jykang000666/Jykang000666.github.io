@@ -1,16 +1,16 @@
-primary_name: "Your Name"
+primary_name: "Jiayi Kang"
 secondary_name: ""
 navbar_name: "Your Name"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+#- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#  name: Position 1 with logo
+- name: Assistant Professor
 
 
-email: "your@email.com"
+email: "kangjiayi@bimsa.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: https://scholar.google.com/citations?user=-myjAr4AAAAJ&hl=zh-CN  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -22,12 +22,10 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I received the B.S. degree from the college of mathematics, Sichuan University, Chengdu, China, in 2019. I obtained my Ph.D. in Applied Mathematics from the Department of Mathematical Sciences at Tsinghua University in June 2024. I join the Beijing institute of Mathematical Sciences and Applications (BIMSA) as an Assistant Professor in July 2024.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research interests include Control, Filtering and Sampling, Machine Learning and Deep Learning, Numerical methods for PDE and SPDE, and Bioinformatics. I focus on topics such as numerical methods for control problems, feedback control for dynamical systems, particle methods for filtering, approximation capability of neural networks, and classification of genomes and proteins.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,22 +33,20 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Tsinghua University
+  logo: /assets/images/badges/THU_logo.png
+  position: Ph.D. in Applied Mathematics
+  date: Sep. 2019 - Jun. 2024
+- name: Sichuan University
+  logo: /assets/images/badges/SCU_logo.png
+  position: B.S. in Mathematics
+  date: Sep. 2015 - Jul. 2019
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Beijing institute of Mathematical Sciences and Applications (BIMSA)
+  logo: /assets/images/badges/BIMSA_logo.png
+  position: Assistant Professor
+  date: Jul. 2024 - present
 
 awards:
 - name: Award Name 2

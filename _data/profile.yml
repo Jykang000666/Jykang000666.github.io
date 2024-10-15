@@ -34,7 +34,7 @@ portrait_caption: >-
 
 education:
 - name: Tsinghua University
-  logo: /assets/images/badges/THU_logo.png
+  logo: /assets/images/badges/THU_logo.svg
   position: Ph.D. in Applied Mathematics
   date: Sep. 2019 - Jun. 2024
 - name: Sichuan University

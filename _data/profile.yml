@@ -1,6 +1,6 @@
 primary_name: "Jiayi Kang"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jiayi Kang"
 
 positions:
 #- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -19,7 +19,7 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
     I received the B.S. degree from the college of mathematics, Sichuan University, Chengdu, China, in 2019. I obtained my Ph.D. in Applied Mathematics from the Department of Mathematical Sciences at Tsinghua University in June 2024. I join the Beijing institute of Mathematical Sciences and Applications (BIMSA) as an Assistant Professor in July 2024.

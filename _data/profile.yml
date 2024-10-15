@@ -28,9 +28,9 @@ short_bio: >-
     My research interests include Control, Filtering and Sampling, Machine Learning and Deep Learning, Numerical methods for PDE and SPDE, and Bioinformatics. I focus on topics such as numerical methods for control problems, feedback control for dynamical systems, particle methods for filtering, approximation capability of neural networks, and classification of genomes and proteins.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/kang.jpg
+#portrait_caption: >-
+#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Tsinghua University
@@ -48,10 +48,10 @@ experience:
   position: Assistant Professor
   date: Jul. 2024 - present
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+#awards:
+#- name: Award Name 2
+#  date: 2024
+#- name: Award Name 1 
+#  date: 2021
+#- name: A quick brown fox jumps over the lazy dog and runs away award
+#  date: 2021

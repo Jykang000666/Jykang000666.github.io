@@ -22,5 +22,4 @@ authors:
   - Stephen S.-T. Yau
 links:
   Paper: https://epubs.siam.org/doi/10.1137/22M1508352
-  
 ---

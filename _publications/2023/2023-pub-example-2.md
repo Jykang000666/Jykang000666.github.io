@@ -15,7 +15,7 @@ result from Korevaar, giving criteria under which a quasilinear parabolic PDE pr
 A bridge between the MAP estimator and the structure of the posterior is explained. Finally, we
 propose a novel numerical method based on iteration and apply this method to a tracking problem.
 
-
+cover:          /assets/images/covers/cover2.jpg
 authors:
   - Jiayi Kang
   - Andrew Salmon

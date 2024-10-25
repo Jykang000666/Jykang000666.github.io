@@ -1,17 +1,17 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
+title:          "Neural Projection Filter: Learning Unknown Dynamics Driven By Noisy Observations"
 date:           2023-01-05 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "IEEE Transactions on Neural Networks and Learning Systems"
 pub_date:       "2023"
 abstract: >-
   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
+- Yangtiainze Tao
+- Jiayi Kang
 - John Doe
-- Charles Green (Stanford)
+- Stephen S.-Y. Yau
 links:
-  Paper: https://www.cell.com
+  Paper: https://jag.math.tsinghua.edu.cn/Publications/Control/430.pdf
 ---
